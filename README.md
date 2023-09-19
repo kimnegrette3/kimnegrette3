@@ -5,19 +5,19 @@
 
 - 🔭 I’m currently working on **My Data Analysis portfolio**
 
-- 🌱 I’m currently learning **Big Data frameworks like Hadoop, Azure, and Machine Learning models building and deployment**
+- 🌱 I’m currently learnin  **Big Data and frameworks like Hadoop, Cloud environments like Azure, and Machine Learning models building and deployment**
 
-- 👯 I'm looking to collaboratein projects related to Data Analytics or Data engineer, I'm fascinated about all Data world!
+- 👯 I'm looking to collaborate in **projects related to Data Analytics or Data engineer, I'm fascinated about all Data world!**
 
 - 💬 Ask me about **Python,R, SQL, PowerBI, Statistics, and ALL things Biology (nerd alert)**
 
 - 📫 How to reach me **kim.negrette3@gmail.com**
 
-- 👨‍💻 All of my projects are available at **working on my portfolio website...for now, look at my pinned repositories, thanks!**
+- 👨‍💻 All of my projects are available at **--working on my portfolio website...--for now, look at my pinned repositories, thanks!**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/kimberly-negrette/](https://www.linkedin.com/in/kimberly-negrette/)
+- 📄 Know about my experiences in [https://www.linkedin.com/in/kimberly-negrette/](https://www.linkedin.com/in/kimberly-negrette/)
 
-- ⚡ Fun fact **Used to live surrounded by monkeys in the jungle (asked me about that time)**
+- ⚡ Fun fact: **Used to live surrounded by monkeys in the jungle (asked me about that time)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
