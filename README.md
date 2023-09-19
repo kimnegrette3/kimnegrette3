@@ -1,17 +1,18 @@
-<h1 align="center">Hi 👋, I'm Kimberly Negrette</h1>
-<h3 align="center">A passionate Data Analyst with an adventurous and rich background in Biological Sciences</h3>
-<img align="right" alt="Coding" width="480" src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm"
+![github-header-image-6](https://github.com/kimnegrette3/kimnegrette3/assets/55415837/a9b29865-ded3-4c4f-b9e3-03ba2e3440e9)
 
+<h1 align="center">Hi! 👋, I'm Kimberly Negrette</h1>
+<h3 align="center">A passionate Data Analyst with an adventurous background in Biology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimnegrette3&label=Profile%20views&color=0e75b6&style=flat" alt="kimnegrette3" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/kimnegrette3/kimnegrette3/assets/55415837/c4877891-1672-47ef-93d3-8bb8d1f1fcf2)">
+
 
 - 🔭 I’m currently working on **My Data Analysis portfolio**
 
-- 🌱 I’m currently learnin  **Big Data and frameworks like Hadoop, Cloud environments like Azure, and Machine Learning models building and deployment**
+- 🌱 I’m currently learnin  **Big Data frameworks like Hadoop, Cloud environments like Azure, and Machine Learning models building and deployment**
 
 - 👯 I'm looking to collaborate in **projects related to Data Analytics or Data engineer, I'm fascinated about all Data world!**
 
-- 💬 Ask me about **Python,R, SQL, PowerBI, Statistics, and ALL things Biology (nerd alert)**
+- 💬 Ask me about **Python, R, SQL, PowerBI, Statistics, Data Analysis and ALL things Biology (nerd alert)**
 
 - 📫 How to reach me **kim.negrette3@gmail.com**
 
