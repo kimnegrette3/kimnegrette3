@@ -6,9 +6,6 @@
 <h3 align="center">A passionate Data Analyst with an adventurous background in Biology</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/kimnegrette3/kimnegrette3/assets/55415837/c953bf04-03f5-44eb-9323-6db40c44c832">
-
-
 - 🔭 I’m currently working on **My Data Analysis portfolio**
 
 - 🌱 I’m currently learnin  **Big Data frameworks like Hadoop, Cloud environments like Azure, and Machine Learning models building and deployment**
