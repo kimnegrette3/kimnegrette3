@@ -1,9 +1,12 @@
-![github-header-image-6](https://github.com/kimnegrette3/kimnegrette3/assets/55415837/a9b29865-ded3-4c4f-b9e3-03ba2e3440e9)
+
+<img align="center" width="1000" height="500" src="https://github.com/kimnegrette3/kimnegrette3/assets/55415837/350106c8-1e2a-4db0-adf1-556a5de6b75d">
+
 
 <h1 align="center">Hi! 👋, I'm Kimberly Negrette</h1>
 <h3 align="center">A passionate Data Analyst with an adventurous background in Biology</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/kimnegrette3/kimnegrette3/assets/55415837/c4877891-1672-47ef-93d3-8bb8d1f1fcf2)">
+
+<img align="right" alt="Coding" width="400" src="https://github.com/kimnegrette3/kimnegrette3/assets/55415837/c953bf04-03f5-44eb-9323-6db40c44c832">
 
 
 - 🔭 I’m currently working on **My Data Analysis portfolio**
