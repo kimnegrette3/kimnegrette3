@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kimberly Negrette</h1>
 <h3 align="center">A passionate Data Analyst with an adventurous and rich background in Biological Sciences</h3>
-<iframe src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-lie-dev-data-doesnt-LaVp0AyqR5bGsC5Cbm">via GIPHY</a></p>
+<img align="right" alt="Coding" width="480" src="https://giphy.com/embed/LaVp0AyqR5bGsC5Cbm"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimnegrette3&label=Profile%20views&color=0e75b6&style=flat" alt="kimnegrette3" /> </p>
 
