@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://kimnegrette3.github.io) website and here in my pinned repositories, check them out!
 
-- 📄 Know about my experiences in [https://www.linkedin.com/in/kimberly-negrette/](https://www.linkedin.com/in/kimberly-negrette/)
+- 📄 Know about my experiences in [LinkedIn](https://www.linkedin.com/in/kimberly-negrette/)
 
 - ⚡ Fun fact: **Used to live surrounded by monkeys in the jungle (asked me about that time)**
 
