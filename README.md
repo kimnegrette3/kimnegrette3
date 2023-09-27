@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Data Analyst with an adventurous background in Biology</h3>
 
 
-- 🔭 I’m currently working on **My Data Analysis portfolio**
+- 🔭 I’m currently working on a Data Engineering project with AWS-S3 and Snowflake, check it out [here](https://github.com/kimnegrette3/Snowflake-AWS-S3-Retail-Analysis)! 
 
 - 🌱 I’m currently learnin  **Big Data frameworks like Hadoop, Cloud environments like Azure, and Machine Learning models building and deployment**
 
